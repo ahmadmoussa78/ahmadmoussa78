@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ahmadm783" target="blank"><img src="https://img.shields.io/twitter/follow/ahmadm783?logo=twitter&style=for-the-badge" alt="ahmadm783" /></a> </p>
 
-- 🔭 I’m currently working on **Corrupted Ticketing System**
+- 🔭 I’m currently working on **No thing**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **to be Full Stack Web Developer**
 
 - 📫 How to reach me **ahmadalhajmoussa78@gmail.com**
 
