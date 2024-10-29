@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Al Haj Moussa</h1>
-<h3 align="center">I'm particularly interested in areas such as Web development, cyber secuirty, and mobile application.</h3>
+<h3 align="center">I'm particularly interested in areas such as Web development and mobile application.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadmoussa78&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadmoussa78" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **No thing**
 
-- 🌱 I’m currently learning **to be Full Stack Web Developer**
+- 🌱 I’m currently learning **Flutter Mobile Developer**
 
 - 📫 How to reach me **ahmadalhajmoussa78@gmail.com**
 
