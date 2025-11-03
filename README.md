@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/bE3F2sZ.png" alt="Flutter Developer Banner"/>
-</p>
 
 <h1 align="center">Hi 👋, I'm Ahmad Al Haj Moussa</h1>
 <h3 align="center"> Flutter Developer | Building Cross-Platform Mobile Apps</h3>
@@ -26,7 +22,7 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ahmad-al-haj-moussa" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmad-al-haj-moussa-b2554722b/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>&nbsp;&nbsp;
   
@@ -34,11 +30,11 @@
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>&nbsp;&nbsp;
   
-  <a href="https://www.instagram.com/ahmad___hm" target="_blank">
+  <a href="" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>&nbsp;&nbsp;
   
-  <a href="https://x.com/ahmadm783" target="_blank">
+  <a href="" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" height="40"/>
   </a>
 </p>
