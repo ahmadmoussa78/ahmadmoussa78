@@ -1,30 +1,81 @@
-<h1 align="center">Hi 👋, I'm Ahmad Al Haj Moussa</h1>
-<h3 align="center">I'm particularly interested  mobile applications.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadmoussa78&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadmoussa78" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadmoussa78" alt="ahmadmoussa78" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ahmadm783" target="blank"><img src="https://img.shields.io/twitter/follow/ahmadm783?logo=twitter&style=for-the-badge" alt="ahmadm783" /></a> </p>
-
-- 🔭 I’m currently working on **No thing**
-
-- 🌱 I’m currently learning **Flutter Mobile Developer**
-
-- 📫 How to reach me **ahmadalhajmoussa78@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ahmadm783" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmadm783" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmad-al-haj-moussa-b2554722b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmad-al-haj-moussa-b2554722b" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/ahmadalhajmousa?igshid=zdc4odbmnjlmnq==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/ahmadalhajmousa?igshid=zdc4odbmnjlmnq==" height="30" width="40" /></a>
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/bE3F2sZ.png" alt="Flutter Developer Banner"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Ahmad Al Haj Moussa</h1>
+<h3 align="center"> Flutter Developer | Building Cross-Platform Mobile Apps</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadmoussa78&show_icons=true&locale=en&layout=compact" alt="ahmadmoussa78" /></p>
+<!-- Typing -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&center=true&width=450&lines=Flutter+Developer;Cross+Platform+App+Builder;Dart+%7C+Firebase+%7C+State+Management;Always+Learning+%26+Improving">
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadmoussa78&show_icons=true&locale=en" alt="ahmadmoussa78" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadmoussa78&" alt="ahmadmoussa78" /></p>
+### 🚀 About Me
+
+- 📱 Passionate about **mobile application development**
+- 📚 Currently mastering **Flutter & Firebase**
+- 🧠 Focused on **clean architecture & state management**
+- 🎯 Goal: Become a **professional Flutter Engineer**
+- 📬 Contact: **ahmadalhajmoussa78@gmail.com**
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ahmad-al-haj-moussa" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://github.com/ahmadmoussa78" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://www.instagram.com/ahmad___hm" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://x.com/ahmadm783" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" height="40"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+#### 📱 Mobile Development  
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" height="45"/>
+</p>
+
+#### 🧰 Tools & Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,git,github,cpp,java,vscode" height="45"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ahmadmoussa78&show_icons=true&theme=radical"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadmoussa78&layout=compact&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadmoussa78&theme=radical" height="160"/>
+</p>
+
+---
+
+### 📱 Current Focus
+
+> Building real Flutter apps, practicing clean architecture, and learning advanced state management.
+
+---
+
+⭐️ **Thank you for visiting my profile!**
