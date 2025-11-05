@@ -41,7 +41,6 @@
 
 ---
 
-### 🛠️ Tech Stack
 
 #### 📱 Mobile Development  
 <p>
