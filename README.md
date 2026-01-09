@@ -54,12 +54,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadmoussa78&theme=radical" height="160"/>
-</p>
-
----
-
 ### 📱 Current Focus
 
 > Building real Flutter apps, practicing clean architecture, and learning advanced state management.
